@@ -57,4 +57,4 @@ In the widget used to extract matrix elements of the vector current, a plateau a
 
 ## Further reading
 
-The physics results of this analysis are described in the following references
+The physics results of this analysis are described in [1808.05007](https://arxiv.org/abs/1808.05007).
