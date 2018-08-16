@@ -59,15 +59,17 @@ In the widget used to extract matrix elements of the vector current, a plateau a
 
 The physics results of this analysis are described in [1808.05007](https://arxiv.org/abs/1808.05007), which can be cited as
 
-@article{Andersen:2018mau,\
-      author         = "Andersen, Christian and Bulava, John and {H\"{o}rz}, Ben and\
-                        Morningstar, Colin",\
-      title          = "{The $I=1$ pion-pion scattering amplitude and timelike\
-                        pion form factor from $N_{\rm f} = 2+1$ lattice QCD}",\
-      year           = "2018",\
-      eprint         = "1808.05007",\
-      archivePrefix  = "arXiv",\
-      primaryClass   = "hep-lat",\
-      reportNumber   = "CP3-Origins-2018-029 DNRF90 MITP/18-073",\
-      SLACcitation   = "%%CITATION = ARXIV:1808.05007;%%"\
+```
+@article{Andersen:2018mau,
+      author         = "Andersen, Christian and Bulava, John and {H\"{o}rz}, Ben and
+                        Morningstar, Colin",
+      title          = "{The $I=1$ pion-pion scattering amplitude and timelike
+                        pion form factor from $N_{\rm f} = 2+1$ lattice QCD}",
+      year           = "2018",
+      eprint         = "1808.05007",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-lat",
+      reportNumber   = "CP3-Origins-2018-029 DNRF90 MITP/18-073",
+      SLACcitation   = "%%CITATION = ARXIV:1808.05007;%%"
 }
+```
